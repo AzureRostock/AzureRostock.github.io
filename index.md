@@ -29,7 +29,7 @@ Industriestraße 10
 * 19:00 - 20:30 .Net Aspire & GraphQL
 
 ### Links/Downloads:
-[](https://github.com/HaMster21/gql-aspire-demo)
+[https://github.com/HaMster21/gql-aspire-demo](https://github.com/HaMster21/gql-aspire-demo)
 
 ## Historische Termine
 * [2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
