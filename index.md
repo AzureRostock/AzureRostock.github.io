@@ -9,29 +9,30 @@ Willkommen beim Azure Meetup in Rostock.
 
 Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vielen Dank!) und tauschen uns über die Microsoft Cloud Azure und verwante Themen aus. Die Veranstaltungen werden von Freiwilligen organisiert und durchgeführt und jeder darf mitmachen. Sie sind kostenlos und es wird dabei für keine Produkte/Leistungen geworben. Wer selbst etwas zeigen/vortragen möchte (gerne auch nur 20 Minuten) oder über etwas diskutieren will, kann sich gerne melden und wir planen das entsprechend ein.
 
-## Nächstes Thema: .Net Aspire & GraphQL - Simplify complex Solutions
+## Nächstes Thema: Key to Innovation - Azure, .Net & Co. in Microscopy
 ![](/img/upcomming.avif)
 
 ### Details
-Hans Meyer von Team Beverage wird einmal aufzeigen, was HotChocolate und Aspire für verteilte Services möglich machen. Anhand einer Domain mit Datenbanken, Redis-Cache, Blazor-Frontend und mehreren Backend-Services wird Hans demonstrieren, wie man .Net Aspire und GraphQL zielgerichtet einsetzen kann, um performante und smarte Lösungen zu entwerfen.
+Entdecke die Welt der Mikroskopie bei Carl Zeiss Microscopy Rostock! In unserem nächsten Meetup wird das Team von ZEISS die innovativen Produkte vorstellen, die hier entwickelt werden. Erfahre, wie .NET, Cloud- & Azure-Technologien in der Entwicklung und den Produkten eingesetzt werden, um die Grenzen der Mikroskopie zu erweitern. Johannes Loepelmann wird uns hier ein paar Einblicke geben.
 
 ### Datum
-30.04.2025
+25.06.2025
 
 ### Location:
-Das Event wird Vor-Ort bei Team Beverage stattfinden:
-Industriestraße 10
-18069 Rostock
+Das Event wird Vor-Ort bei ZEISS stattfinden:
+Zur Himmelspforte 1
+18055 Rostock
 
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
 * 18:40 - 19:00 Interessante Azure Updates
-* 19:00 - 20:30 .Net Aspire & GraphQL
+* 19:00 - 20:30 Azure-Einblick
 
 ### Links/Downloads:
-[https://github.com/HaMster21/gql-aspire-demo](https://github.com/HaMster21/gql-aspire-demo)
+
 
 ## Historische Termine
+* [2025-04-30 .Net Aspire & GraphQL - Simplify complex Solutions](/2025-04-30.md)
 * [2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
 * [2024-11-06 Chat with your indexed Azure Database Table](/2024-11-06.md)
 * [2024-09-11 Databricks Unity Catalog in Theorie & Praxis](/2024-09-11.md)
