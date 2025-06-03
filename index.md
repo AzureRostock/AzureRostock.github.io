@@ -20,8 +20,9 @@ Entdecke die Welt der Mikroskopie bei Carl Zeiss Microscopy Rostock! In unserem 
 
 ### Location:
 Das Event wird Vor-Ort bei ZEISS stattfinden:
-Zur Himmelspforte 1
-18055 Rostock
+Carl Zeiss Microscopy GmbH
+Am Kabutzenhof 21
+18057 Rostock
 
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
