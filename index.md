@@ -10,7 +10,7 @@ Willkommen beim Azure Meetup in Rostock.
 Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vielen Dank!) und tauschen uns über die Microsoft Cloud Azure und verwante Themen aus. Die Veranstaltungen werden von Freiwilligen organisiert und durchgeführt und jeder darf mitmachen. Sie sind kostenlos und es wird dabei für keine Produkte/Leistungen geworben. Wer selbst etwas zeigen/vortragen möchte (gerne auch nur 20 Minuten) oder über etwas diskutieren will, kann sich gerne melden und wir planen das entsprechend ein.
 
 ## Nächstes Thema: Key to Innovation - Azure, .Net & Co. in Microscopy
-![](/img/upcomming.avif)
+![](/img/zeiss-arivis-teaser.jpg)
 
 ### Details
 Entdecke die Welt der Mikroskopie bei Carl Zeiss Microscopy Rostock! In unserem nächsten Meetup wird das Team von ZEISS die innovativen Produkte vorstellen, die hier entwickelt werden. Erfahre, wie .NET, Cloud- & Azure-Technologien in der Entwicklung und den Produkten eingesetzt werden, um die Grenzen der Mikroskopie zu erweitern. Johannes Loepelmann wird uns hier ein paar Einblicke geben.
