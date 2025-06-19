@@ -19,10 +19,14 @@ Entdecke die Welt der Mikroskopie bei Carl Zeiss Microscopy Rostock! In unserem 
 25.06.2025
 
 ### Location:
-Das Event wird Vor-Ort bei ZEISS stattfinden:
-Carl Zeiss Microscopy GmbH
-Am Kabutzenhof 21
+Das Event wird vor Ort bei ZEISS stattfinden:
+
+Carl Zeiss Microscopy GmbH\
+Am Kabutzenhof 21\
 18057 Rostock
+
+Der Eingang zum Gebäude befindet sich gegenüber der Volkshochschule.\
+Das Meetup findet in der 5. Etage statt, der Weg ist ausgeschildert.
 
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
