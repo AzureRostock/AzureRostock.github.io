@@ -9,34 +9,32 @@ Willkommen beim Azure Meetup in Rostock.
 
 Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vielen Dank!) und tauschen uns über die Microsoft Cloud Azure und verwante Themen aus. Die Veranstaltungen werden von Freiwilligen organisiert und durchgeführt und jeder darf mitmachen. Sie sind kostenlos und es wird dabei für keine Produkte/Leistungen geworben. Wer selbst etwas zeigen/vortragen möchte (gerne auch nur 20 Minuten) oder über etwas diskutieren will, kann sich gerne melden und wir planen das entsprechend ein.
 
-## Nächstes Thema: Key to Innovation - Azure, .Net & Co. in Microscopy
-![](/img/zeiss-arivis-teaser.jpg)
+## Nächstes Thema: GenAI, Copilot & other buzzwords - Best Practices for working with GenAI in Software Development
+![](/img/2025-09-17.avif)
 
 ### Details
-Entdecke die Welt der Mikroskopie bei Carl Zeiss Microscopy Rostock! In unserem nächsten Meetup wird das Team von ZEISS die innovativen Produkte vorstellen, die hier entwickelt werden. Erfahre, wie .NET, Cloud- & Azure-Technologien in der Entwicklung und den Produkten eingesetzt werden, um die Grenzen der Mikroskopie zu erweitern. Johannes Loepelmann wird uns hier ein paar Einblicke geben.
+Begriffe wie GenAI, Copilot & ChatGPT sind aktuell in aller Munde und verändern unseren Arbeitalltag maßgeblich. Deshalb wollen wir diesen Termin nutzen, um uns über Best Practices im Umgang mit GenAI-Tools auszutauschen. Wie nutzt ihr GenAI? Was klappt gut? Was ist noch ausbaufähig? Und wo seht ihr den größten Mehrwert? Egal, ob ihr Erfahrungen habt oder einfach mal einen Einblick in das Thema bekommen möchtet, ihr seid herzlich willkommen!
 
 ### Datum
-25.06.2025
+17.09.2025
 
 ### Location:
-Das Event wird vor Ort bei ZEISS stattfinden:
+Das Event wird vor Ort bei adesso stattfinden:
 
-Carl Zeiss Microscopy GmbH\
-Am Kabutzenhof 21\
+Doberaner Str. 111
 18057 Rostock
 
-Der Eingang zum Gebäude befindet sich gegenüber der Volkshochschule.\
-Das Meetup findet in der 5. Etage statt, der Weg ist ausgeschildert.
 
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
 * 18:40 - 19:00 Interessante Azure Updates
-* 19:00 - 20:30 Azure-Einblick
+* 19:00 - 20:30 GenAI-Austausch
 
 ### Links/Downloads:
 
 
 ## Historische Termine
+* [2025-06-25 Key to Innovation - Azure, .Net & Co. in Microscopy](/2025-06-25.md)
 * [2025-04-30 .Net Aspire & GraphQL - Simplify complex Solutions](/2025-04-30.md)
 * [2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
 * [2024-11-06 Chat with your indexed Azure Database Table](/2024-11-06.md)
