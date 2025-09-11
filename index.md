@@ -16,7 +16,7 @@ Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vie
 Begriffe wie GenAI, Copilot & ChatGPT sind aktuell in aller Munde und verändern unseren Arbeitalltag maßgeblich. Deshalb wollen wir diesen Termin nutzen, um uns über Best Practices im Umgang mit GenAI-Tools auszutauschen. Wie nutzt ihr GenAI? Was klappt gut? Was ist noch ausbaufähig? Und wo seht ihr den größten Mehrwert? Egal, ob ihr Erfahrungen habt oder einfach mal einen Einblick in das Thema bekommen möchtet, ihr seid herzlich willkommen!
 
 ### Datum
-17.09.2025
+01.10.2025
 
 ### Location:
 Das Event wird vor Ort bei adesso stattfinden:
@@ -28,7 +28,8 @@ Doberaner Str. 111
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
 * 18:40 - 19:00 Interessante Azure Updates
-* 19:00 - 20:30 GenAI-Austausch
+* 19:00 - 19:15 Keynote Erik
+* 19:30 - 20:30 GenAI-Austausch
 
 ### Links/Downloads:
 
