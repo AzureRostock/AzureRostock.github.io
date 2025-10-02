@@ -32,7 +32,7 @@ Doberaner Str. 111
 * 19:30 - 20:30 GenAI-Austausch
 
 ### Links/Downloads:
-
+[Azure-Meetup-Rostock-20251001.pdf](/slides/Azure-Meetup-Rostock-20251001.pdf)
 
 ## Historische Termine
 * [2025-06-25 Key to Innovation - Azure, .Net & Co. in Microscopy](/2025-06-25.md)
