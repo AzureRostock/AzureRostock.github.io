@@ -16,7 +16,7 @@ Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vie
 Wir blicken zurück auf zwei der wichtigsten Softwarearchitektur-Konferenzen des Jahres! Beim Software Architecture Gathering und der OOP-Konferenz gab es spannende Einblicke in aktuelle Trends, bewährte Praktiken und innovative Ansätze in der Softwareentwicklung. Unsere Teilnehmer teilen ihre Highlights, interessantesten Sessions und praktischen Erkenntnisse mit der Community. Freut euch auf inspirierende Berichte, hilfreiche Tipps und lebendige Diskussionen über die Zukunft der Softwarearchitektur.
 
 ### Datum
-01.10.2025
+24.02.2026
 
 ### Location:
 Das Event wird vor Ort bei Carl Zeiss Microscopy stattfinden (5. Etage):
