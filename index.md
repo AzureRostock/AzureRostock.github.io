@@ -27,8 +27,7 @@ Am Kabutzenhof 21\
 
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
-* 18:40 - 19:00 Interessante Azure Updates
-* 19:00 - 19:45 Bericht vom Software Architecture Gathering
+* 18:40 - 19:45 Bericht vom Software Architecture Gathering
 * 19:45 - 20:30 Bericht von der OOP
 * Ab 20:30 Lockerer Austausch
 
@@ -42,3 +41,4 @@ tbd
 * [2025-02-26 Demonstrate your favorite Extensions/Tools](/2025-02-26.md)
 * [2024-11-06 Chat with your indexed Azure Database Table](/2024-11-06.md)
 * [2024-09-11 Databricks Unity Catalog in Theorie & Praxis](/2024-09-11.md)
+
