@@ -19,8 +19,8 @@ Copilot: "Tauche ein in drei praxisnahe Perspektiven der modernen Produkt- und P
 14.04.2026
 
 ### Location:
-Das Event wird Vor-Ort bei der Arvato Systems stattfinden:
-Joachim-Jungius-Str. 9
+Das Event wird Vor-Ort bei der Arvato Systems stattfinden:  
+Joachim-Jungius-Str. 9  
 18059 Rostock
 
 
