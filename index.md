@@ -35,6 +35,7 @@ Am Kabutzenhof 21\
 tbd
 
 ## Historische Termine
+* [2026-02-24 Berichte vom Software Architecture Gathering und der OOP](/2026-02-24.md)
 * [2025-10-01 GenAI, Copilot & other buzzwords - Best Practices for working with GenAI in Software Development](/2025-10-01.md)
 * [2025-06-25 Key to Innovation - Azure, .Net & Co. in Microscopy](/2025-06-25.md)
 * [2025-04-30 .Net Aspire & GraphQL - Simplify complex Solutions](/2025-04-30.md)
