@@ -9,27 +9,28 @@ Willkommen beim Azure Meetup in Rostock.
 
 Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vielen Dank!) und tauschen uns über die Microsoft Cloud Azure und verwante Themen aus. Die Veranstaltungen werden von Freiwilligen organisiert und durchgeführt und jeder darf mitmachen. Sie sind kostenlos und es wird dabei für keine Produkte/Leistungen geworben. Wer selbst etwas zeigen/vortragen möchte (gerne auch nur 20 Minuten) oder über etwas diskutieren will, kann sich gerne melden und wir planen das entsprechend ein.
 
-## Nächstes Thema: Berichte vom Software Architecture Gathering und der OOP
-![](/img/happy_people.jpg)
+## Nächstes Thema: Überblick zu verschiedenen Möglichkeiten um Software, Domains und Prozesse zu entwerfen
+![](/img/2026-02-14.png)
 
 ### Details
-Wir blicken zurück auf zwei der wichtigsten Softwarearchitektur-Konferenzen des Jahres! Beim Software Architecture Gathering und der OOP-Konferenz gab es spannende Einblicke in aktuelle Trends, bewährte Praktiken und innovative Ansätze in der Softwareentwicklung. Unsere Teilnehmer teilen ihre Highlights, interessantesten Sessions und praktischen Erkenntnisse mit der Community. Freut euch auf inspirierende Berichte, hilfreiche Tipps und lebendige Diskussionen über die Zukunft der Softwarearchitektur.
+Copilot: "Tauche ein in drei praxisnahe Perspektiven der modernen Produkt- und Prozessgestaltung: Domain Storytelling, Value Stream Mapping und Event Modelling. Gemeinsam entdecken wir, wie diese Methoden Komplexität reduzieren und Teams zu klaren Entscheidungen führen. Freu dich auf inspirierende Impulse, konkrete Beispiele und lebendige Einblicke in effektive Zusammenarbeit."
 
 ### Datum
-24.02.2026
+14.04.2026
 
 ### Location:
-Das Event wird vor Ort bei Carl Zeiss Microscopy stattfinden (5. Etage):
-
-Am Kabutzenhof 21\
-18057 Rostock
+Das Event wird Vor-Ort bei der Arvato Systems stattfinden:
+Joachim-Jungius-Str. 9
+18059 Rostock
 
 
 ### Agenda:
 * 18:30 - 18:40 Eintreffen & Begrüßung
-* 18:40 - 19:45 Bericht vom Software Architecture Gathering
-* 19:45 - 20:30 Bericht von der OOP
-* Ab 20:30 Lockerer Austausch
+* 18:40 - 19:00 Azure Updates 👉 Thomas
+* 19:00 - 19:30 Domain Story Telling mit [egon.io](https://egon.io/) 👉 Holger
+* 19:30 - 19:45 Value Stream Mapping 👉 Axel
+* 19:45 - 20:00 Event Modelling 👉 Hans
+* ab 20:00 offener Austausch
 
 ### Links/Downloads:
 tbd
