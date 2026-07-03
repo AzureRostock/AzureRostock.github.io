@@ -16,7 +16,7 @@ Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vie
 Sven wird uns die neuesten Entwicklungen bei Databricks erklären, denn auch hier gibt es etliche KI Erweiterungen die helfen. Hans wir sein Event Modelling Thema beenden und Thomas wird ein paar Azure News ergänzen.
 
 ### Datum
-08.07.2026 (jetzt korrekt)
+08.07.2026
 
 ### Location:
 Das Event wird vor Ort bei adesso stattfinden:
