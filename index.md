@@ -16,13 +16,13 @@ Wir treffen uns alle paar Wochen in den Räumlichkeiten unserer Arbeitgeber (vie
 Sven wird uns die neuesten Entwicklungen bei Databricks erklären, denn auch hier gibt es etliche KI Erweiterungen die helfen. Hans wir sein Event Modelling Thema beenden und Thomas wird ein paar Azure News ergänzen.
 
 ### Datum
-~~08.07.2026~~ Verschoben
+13.10.2026
 
 ### Location:
-Das Event wird vor Ort bei adesso stattfinden:
+Das Event wird vor Ort bei Arvato Systems stattfinden:
 
-Doberaner Str. 111\
-18057 Rostock
+Joachim-Jungius-Str. 9\
+18059 Rostock
 
 
 ### Agenda:
